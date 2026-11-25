@@ -66,7 +66,7 @@
 
 Ad Radar (AdRadar MCP) is a remote Model Context Protocol server that lets AI agents search the public Meta Ad Library and TikTok Creative Center Top Ads, classify sales angles, and compute a 0-100 Winning Score.
 
-**Areas:** AdTech · AI · Advertising · Meta · TikTok
+**Areas:** AdTech · Artificial Intelligence · Advertising · Meta · TikTok
 
 ## AdRadar on APIs.io
 
@@ -80,24 +80,30 @@ Everything profiled for AdRadar is published on APIs.io rather than in this repo
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adradarmcp-cloud-mcp.yml](https://apis.io/servers/adradarmcp-cloud/adradarmcp-cloud-mcp-yml/)
+
 #### Examples (1)
 
 Example requests and responses.
 
-- [Adradarmcp Cloud Mcp Tools](https://apis.io/examples/adradarmcp-cloud/adradarmcp-cloud-mcp-tools/)
+- [AdRadar Mcp Tools](https://apis.io/examples/adradarmcp-cloud/adradarmcp-cloud-mcp-tools/)
 
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adradarmcp Cloud Authentication](https://apis.io/security/adradarmcp-cloud/adradarmcp-cloud-authentication/)
-- [Adradarmcp Cloud Domain Security](https://apis.io/security/adradarmcp-cloud/adradarmcp-cloud-domain-security/)
+- [AdRadar Authentication](https://apis.io/security/adradarmcp-cloud/adradarmcp-cloud-authentication/)
+- [AdRadar Domain Security](https://apis.io/security/adradarmcp-cloud/adradarmcp-cloud-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adradarmcp Cloud Plans Pricing](https://apis.io/plans/adradarmcp-cloud/adradarmcp-cloud-plans-pricing/)
+- [AdRadar Plans Pricing](https://apis.io/plans/adradarmcp-cloud/adradarmcp-cloud-plans-pricing/)
 
 ## Where to find this API
 
@@ -109,18 +115,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 18.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 18.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 71.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 11.9 |
-| Access clarity | 49.5 |
+| Access clarity | 46.8 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 24.5** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,7 +141,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -145,8 +151,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 14.5** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adradarmcp-cloud/](https://apis.io/providers/adradarmcp-cloud/).
 
